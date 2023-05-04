@@ -2,4 +2,3 @@
 
 ## Third Eye Services LLP
 
-### ThirdEye Pest Control Services 
