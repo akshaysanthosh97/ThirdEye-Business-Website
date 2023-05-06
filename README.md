@@ -1,6 +1,5 @@
 # ThirdEye-Business-Website
-## Third Eye Services LLP
-
+[3rdeyes.in](#1-ThirdEye-Services-LLP)
 
 ### Home Page
 
