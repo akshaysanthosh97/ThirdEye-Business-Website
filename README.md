@@ -4,13 +4,12 @@
 
 ### Home Page
 
-![Alt text](https://i.postimg.cc/Jzq4wz34/Screenshot-2023-05-06-at-10-48-32-PM.png "Optional Title")
+![Alt text](https://i.postimg.cc/Jzq4wz34/Screenshot-2023-05-06-at-10-48-32-PM.png "Home Page")
 
 
 ### About us
 
-![Alt text][def]
+![Alt text][about]
 
 
-
-[def]: https://i.postimg.cc/N0jGQvb8/Screenshot-2023-05-06-at-10-48-45-PM.png "Optional Title"
+[about]: https://i.postimg.cc/N0jGQvb8/Screenshot-2023-05-06-at-10-48-45-PM.png "About Us"
